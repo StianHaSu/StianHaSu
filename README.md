@@ -1,4 +1,5 @@
 ## Hi there 👋
+![computer-help-gif](https://github.com/user-attachments/assets/835dab8b-919e-44e3-8ba8-7d2ee3e6ca58)
 
 <!--
 **StianHaSu/StianHaSu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
