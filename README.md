@@ -1,4 +1,4 @@
-# HI! My name is Stian
+# Hi! My name is Stian
 ### I'm a backend dev
 
 
