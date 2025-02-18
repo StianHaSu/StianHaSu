@@ -1,6 +1,8 @@
-# HI !
-## My name is Stian
+# HI! My name is Stian
 ### I'm a backend dev
+
+
+
 
 <!--
 **StianHaSu/StianHaSu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
